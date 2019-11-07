@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+body {
+	background-color: skyblue;
+}
+
+.container {
+	background: rgb(255, 249, 183);
+}
+.head{
+	visibility: visible;
+	margin-top: 10px;
+}
+#inp_txt{
+	width:93%;
+	padding-left: 30px;
+}
+#hed_R{
+	position: relative;
+	float: right;
+	padding-right: 3%;
+}
+#hed_R img{
+	height: 15px;
+}
+#hed_R h6{
+	font-size: 3px;
+	margin-top: -2px;
+	margin-left: -2px;
+}
+#item_img{
+	height: 280px;
+	width: 100%;
+}
+nav{
+	height: 30px;
+	margin-top: 15px;
+}
+.txt{
+	text-align: center;
+}
+.txt span{
+	float: right;
+	transform: rotate(10deg);
+}
+#skl_img{
+	height: 200px;
+	width: 100%;
+}
+.seckill_img h4{
+	text-align: center;
+	font-size: 14px;
+}
+#seckill{
+	visibility: visible;
+	height: 40px;
+}
+#L{
+	float: left;
+}
+#R{
+	float: right;
+}
+
+
+/* 界面2 */
+#top h6{
+	text-align: center;
+}
+#nav{
+	
+}
+#nav ul{
+	border-top: 1px solid #101010;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+#nav ul li{
+	float: left;
+	padding-left: 11%;
+	text-align: center;
+}
+#nav ul li:nth-child(1){
+  color: #B2DBA1;
+}
+#jumbotron_img{
+	height: 300px;
+	width: 105%;
+}
+.L{
+	float: left;
+}
+.L img{
+	height: 15px;
+}
+.R{
+	float: right;
+	padding-right: 10px;
+}
+.R img{
+	height: 15px;
+}
