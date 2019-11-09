@@ -5031,9 +5031,9 @@ a.badge:focus {
   .jumbotron {
     padding-bottom: 48px;
   }
-  .container .jumbotron,
+  /* .container .jumbotron,
   .container-fluid .jumbotron {
-  }
+  } */
   .jumbotron h1,
   .jumbotron .h1 {
     font-size: 63px;
@@ -6366,14 +6366,14 @@ button.close {
   filter: alpha(opacity=50);
   opacity: .5;
 }
-.carousel-control.left {
+/* .carousel-control.left { */
   /* background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
   background-image:      -o-linear-gradient(left, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .0001)));
   background-image:         linear-gradient(to right, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .0001) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
    background-repeat: repeat-x; */
-}
+/* } */
 .carousel-control.right {
   right: 0;
   left: auto;
